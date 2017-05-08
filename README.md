@@ -18,7 +18,8 @@ Hello Git!
 <http://software.hebtu.edu.cn/>
 [软件官网](http://software.hebtu.edu.cn/)  
 ![软件图片](http://software.hebtu.edu.cn/uploadfile/2013/0410/20130410095050362.jpg)  
-    if(true){} 前面四个空格，表示代码
+    if(true){}  
+    `前面四个空格，表示代码`
    
 
 
